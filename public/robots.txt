@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://tmpl-react-vite.vercel.app
+
+# Sitemaps
+Sitemap: https://tmpl-react-vite.vercel.app/sitemap.xml
